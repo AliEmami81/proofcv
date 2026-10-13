@@ -1,0 +1,9 @@
+{
+  "name": "proofcv",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Your experience, with receipts. A private resume studio with source-linked job keyword checks and printable exports.",
+  "scripts": { "test": "node --test", "dev": "node serve.cjs" },
+  "engines": { "node": ">=22" },
+  "license": "MIT"
+}
